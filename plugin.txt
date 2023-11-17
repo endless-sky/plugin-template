@@ -1,0 +1,3 @@
+name "Enter the name of your plugin here. This will be displayed in the list of plugins when you install it."
+about "Enter some text that describes your plugin here. Endless Sky will then display it when the user has your plugin installed and selected."
+about "Use multiple 'about' nodes to create new paragraphs in the description box, if necessary."
